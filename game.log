@@ -1,0 +1,361 @@
+[00:00:00] Found module [steam_api64.dll] at D:\steam\steamapps\common\Call to Arms\binaries\x64\steam_api64.dll
+[00:00:00] Found module [mss64.dll] at D:\steam\steamapps\common\Call to Arms\binaries\x64\mss64.dll
+[00:00:00] Steam initialization...
+[00:00:00] Steam initialized successfuly! 
+[00:00:00] Steam Application ID: 302670
+[00:00:00] Steam User ID: 76561198812574299
+[00:00:00] Steam Public Name: danil140lar
+[00:00:00] Steam Language: russian
+[00:00:00] Steam DLC Scan: 6 total
+[00:00:00] Found DLC 374390 "Call to Arms - Deluxe Edition" (state=1, owned=1, installed=1)
+[00:00:00] Found DLC 475170 "Call to Arms - Allied Army" (state=0, owned=1, installed=1)
+[00:00:00] Found DLC 487170 "Call to Arms - Basic Edition" (state=1, owned=1, installed=1)
+[00:00:00] Found DLC 487310 "Call to Arms - German Army" (state=0, owned=0, installed=0)
+[00:00:00] Found DLC 548180 "Call to Arms - Russian Army" (state=0, owned=0, installed=0)
+[00:00:00] Found DLC 561140 "Call to Arms - Season Pass" (state=1, owned=0, installed=0)
+[00:00:00] Activated game edition: deluxe
+[00:00:00] 
+[00:00:00] Scanning mods in d:/steam/steamapps/common/call to arms/mods/
+[00:00:00] Found 1 available mods
+[00:00:00] Mount package d:/steam/steamapps/common/call to arms/resource/entity/construction.pak with 21116 entries
+[00:00:00] Mount package d:/steam/steamapps/common/call to arms/resource/entity/entity.pak with 28592 entries
+[00:00:00] Mount package d:/steam/steamapps/common/call to arms/resource/gamelogic.pak with 5783 entries
+[00:00:00] Mount package d:/steam/steamapps/common/call to arms/resource/interface.pak with 8321 entries
+[00:00:00] Mount package d:/steam/steamapps/common/call to arms/resource/map.pak with 570 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/map_basic.pak with 131 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/map_deluxe.pak with 132 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/music.pak with 22 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/sound.pak with 2666 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/building.pak with 360 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/building2.pak with 204 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/building3.pak with 290 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/building4.pak with 558 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/common.pak with 78 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/construction.pak with 2206 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/construction2.pak with 576 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/construction3.pak with 629 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/environment.pak with 170 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/fauna.pak with 77 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/flora.pak with 852 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/humanskin.pak with 915 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/inventory.pak with 1122 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/landscape.pak with 2578 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/service.pak with 79 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/vehicle.pak with 557 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/vehicle2.pak with 490 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/vehicle3.pak with 496 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/vehicle4.pak with 548 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/texture/texture.pak with 1506 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/resource/video.pak with 15 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/localizations/default.pak with 67 entries
+[00:00:01] Mount package d:/steam/steamapps/common/call to arms/localizations/ru.pak with 40 entries
+[00:00:01] Launch information:
+[00:00:01] CWD: d:/steam/steamapps/common/call to arms/binaries/x64
+[00:00:01] CMD:  -appid 302670 -owner 4592 -version "1.228.0" -mode steam -pipe "cta_ipc_0"
+[00:00:01] CONFIG: c:/users/daniil/documents/my games/call to arms/
+[00:00:01] OS: Windows 10  build 19044
+[00:00:01] CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+[00:00:01] Memory: 8025.30M
+[00:00:05] GUI: Initialize page manager 
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/entity/construction.pak with 21116 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/entity/entity.pak with 28592 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/gamelogic.pak with 5783 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/interface.pak with 8321 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/map.pak with 570 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/map_basic.pak with 131 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/map_deluxe.pak with 132 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/music.pak with 22 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/sound.pak with 2666 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/building.pak with 360 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/building2.pak with 204 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/building3.pak with 290 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/building4.pak with 558 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/common.pak with 78 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/construction.pak with 2206 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/construction2.pak with 576 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/construction3.pak with 629 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/environment.pak with 170 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/fauna.pak with 77 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/flora.pak with 852 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/humanskin.pak with 915 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/inventory.pak with 1122 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/landscape.pak with 2578 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/service.pak with 79 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/vehicle.pak with 557 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/vehicle2.pak with 490 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/vehicle3.pak with 496 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/common/vehicle4.pak with 548 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/texture/texture.pak with 1506 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/resource/video.pak with 15 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/localizations/default.pak with 67 entries
+[00:00:05] Mount package d:/steam/steamapps/common/call to arms/localizations/ru.pak with 40 entries
+[00:00:05] Mod: applying mods
+[00:00:05] Mod: disable mod template
+[00:00:05] Mod: applying new mods
+[00:00:05] Start sound manager
+[00:01:02] Game: Create game campaign_capture_the_flag mode:1
+[00:01:02] Game: Create team a 'Команда А' (usa)
+[00:01:02] Game: Create team b 'Команда B' (grm)
+[00:01:02] Game: Add player 2 ИИ: средний dlcs: b:grm
+[00:01:02] Game: Add player 3 danil140lar dlcs:374390,475170,487170 a:usa
+[00:01:03] Resetting currentSubscriptionId to 0
+[00:01:03] Start internet game with seed 3969269760
+[00:01:03] Starting "multi/1v1_dam:campaign_capture_the_flag" (hardcore=0, difficulty=normal)
+[00:01:04] Empty grass pattern map! (/entity/service/land/land, 14)
+[00:01:04] no "pivot_front" & "pivot_back" bones in fishingboat[0x0 actor] (/map/multi/1v1_dam/map, 17836)
+[00:01:04] no "pivot_front" & "pivot_back" bones in fishingboat[0x0 actor] (/map/multi/1v1_dam/map, 17836)
+[00:01:04] Remap actor_id matv_m240[0x6 actor]to 60
+[00:01:04] Remap actor_id human[0x7:mp/usa/t2_01 human]to 61
+[00:01:04] Remap actor_id human[0x8:mp/usa/t2_01 human]to 62
+[00:01:04] Remap actor_id human[0x9:mp/usa/t2_01 human]to 63
+[00:01:04] Remap actor_id human[0xa:mp/usa/t2_01 human]to 64
+[00:01:04] Remap actor_id human[0xe:mp/usa/t2_02 human]to 65
+[00:01:04] Remap actor_id human[0xf:mp/usa/tx_at_01 human]to 66
+[00:01:04] Remap actor_id human[0x10:mp/usa/tx_at_01 human]to 67
+[00:01:04] Remap actor_id human[0x16:mp/usa/t2_02 human]to 68
+[00:01:04] Remap actor_id human[0x17:mp/usa/t2_02 human]to 69
+[00:01:04] Remap actor_id human[0x18:mp/usa/t2_03 human]to 70
+[00:01:04] Remap actor_id human[0x19:mp/usa/t2_03 human]to 71
+[00:01:04] Remap actor_id human[0x1a:mp/usa/t2_sq human]to 72
+[00:01:08] no "pivot_front" & "pivot_back" bones in fishingboat[0x2743 actor] (eChassisWheel.cpp:149) @ [main_loop]
+[00:01:08] no breed found for the human[0x8: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0xa: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0xb: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0xc: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0xd: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0xe: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0xf: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x10: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x11: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x12: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x13: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x14: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x15: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x16: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x17: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x18: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x19: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x1a: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x1b: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x1c: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x1d: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x1e: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x1f: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x20: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x21: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x22: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x25: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x26: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x27: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x28: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x23: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x24: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x2a: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x29: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x2b: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x2c: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x2d: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x2e: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x2f: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x31: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x32: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x33: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x34: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x35: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x36: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x37: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x38: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x39: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x3a: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:08] no breed found for the human[0x3b: human] (eHuman.cpp:286) @ [main_loop]
+[00:01:08] Undefined skin "skeleton" for breed "" (eHumanSkin.cpp:99) @ [main_loop]
+[00:01:10] Enter game mode as user 255
+[00:01:10] Clipper '' is not found! (mp_game_campaign.cpp:532) @ [main_loop]
+[00:01:10] [CMP] Setup. Def level: 1
+[00:01:10] [CMP] Purchase. Player MP: 520, Min/Max Bot MP: 1000/4000, Bot Multiplier: 0.2, Bot Flat Bonus: 450, Defender Multiplier: 0.3 Flags: 1 --> Bot Budget: Clip(520 * 0.2 + 450, 1000, 4000) * 0.3 * 1 = 300
+[00:01:10] [CMP] Purchase. Stage: 1, Human Stages: 4, MG Stages: 1
+[00:01:10] [CMP] Purchase. Stage: 2, Human Stages: 4, MG Stages: 1
+[00:01:10] [EVT] Флаг захвачен
+[00:01:31] GameThreadStart
+[00:01:31] [LUA] DBG: Loading /script/multiplayer/bot.main.lua
+[00:01:31] [LUA] DBG: trying to load file /script/multiplayer/bot.lua
+[00:01:31] [LUA] DBG: Loading /script/multiplayer/bot.lua
+[00:01:31] [LUA] DBG: trying to load file /script/multiplayer/bot.data.lua
+[00:01:31] [LUA] DBG: Loading /script/multiplayer/bot.data.lua
+[00:01:31] [LUA] DBG: trying to load file /script/multiplayer/bot.data.purchase.standard.lua
+[00:01:31] [LUA] DBG: Loading /script/multiplayer/bot.data.purchase.standard.lua
+[00:01:31] [LUA] DBG: trying to load file /script/multiplayer/bot.data.purchase.campaign_capture_the_flag.lua
+[00:01:31] [LUA] DBG: Loading /script/multiplayer/bot.data.purchase.campaign_capture_the_flag.lua
+[00:01:35] [LUA] t-80u not available, player#1
+[00:01:35] [LUA] DBG: SpawnUnit squad1(grm) player#1
+[00:01:35] [LUA] DBG: OnGameSpawn player#1 squad 0
+[00:01:35] [LUA] DBG: CaptureFlag f1 player#1 squad 0
+[00:01:35] [LUA] DBG: OnGameSpawn player#1 squad 1
+[00:01:35] [LUA] DBG: CaptureFlag f1 player#1 squad 1
+[00:01:35] Invalid FSM state for 'inventory_out': 6 (eHumanFsmSplit.cpp:214) @ [quant]
+[00:01:35] Invalid FSM state for 'inventory_out': 6 (eHumanFsmSplit.cpp:214) @ [quant]
+[00:01:36] Transfer actor matv_m240[0x3c actor] from player 0 to 2 (3) 
+[00:01:36] Transfer actor human[0x41:mp/usa/t2_02 human] from player 0 to 2 (3) 
+[00:01:36] Transfer actor human[0x42:mp/usa/tx_at_01 human] from player 0 to 2 (3) 
+[00:01:36] Transfer actor human[0x43:mp/usa/tx_at_01 human] from player 0 to 2 (3) 
+[00:01:36] Transfer actor human[0x44:mp/usa/t2_02 human] from player 0 to 2 (3) 
+[00:01:36] Transfer actor human[0x45:mp/usa/t2_02 human] from player 0 to 2 (3) 
+[00:01:36] Transfer actor human[0x46:mp/usa/t2_03 human] from player 0 to 2 (3) 
+[00:01:36] Transfer actor human[0x47:mp/usa/t2_03 human] from player 0 to 2 (3) 
+[00:01:36] Transfer actor human[0x48:mp/usa/t2_sq human] from player 0 to 2 (3) 
+[00:01:40] [LUA] squad6(grm) not available, player#1
+[00:01:40] [LUA] squad4(grm) not available, player#1
+[00:01:40] [LUA] squad1(grm) 0 set wait timer, player#1
+[00:02:10] [EVT] danil140lar MATV с M240 ИИ: средний Боевик ГРД 
+[00:02:11] [EVT] danil140lar MATV с M240 ИИ: средний Боевик ГРД 
+[00:02:36] [EVT] danil140lar MATV с M240 ИИ: средний Боевик ГРД 
+[00:02:38] [EVT] danil140lar MATV с M240 AI: Defender Солдат ГРД 
+[00:02:38] Actor human[0x10:mp/grm/t2_02 human] not registerd in unit manager (mp_gameunitmanager.cpp:282) @ [quant]
+[00:02:41] [EVT] danil140lar MATV с M240 AI: Defender Солдат ГРД 
+[00:02:41] Actor human[0xe:mp/grm/t2_05 human] not registerd in unit manager (mp_gameunitmanager.cpp:282) @ [quant]
+[00:02:42] [EVT] danil140lar MATV с M240 ИИ: средний Боевик ГРД 
+[00:02:44] [EVT] danil140lar MATV с M240 AI: Defender Солдат ГРД 
+[00:02:44] Actor human[0xd:mp/grm/t2_03 human] not registerd in unit manager (mp_gameunitmanager.cpp:282) @ [quant]
+[00:02:50] [EVT] AI: Defender AKM danil140lar Солдат США 
+[00:02:52] [EVT] AI: Defender AKM danil140lar Гранатометчик США 
+[00:02:55] [EVT] ИИ: средний АКС-74 danil140lar Солдат США 
+[00:02:55] [EVT] danil140lar M16A4 ИИ: средний Боевик ГРД 
+[00:02:55] [LUA] DBG: SpawnUnit squad1(grm) player#1
+[00:02:55] [LUA] DBG: OnGameSpawn player#1 squad 7
+[00:02:55] [LUA] DBG: CaptureFlag f1 player#1 squad 7
+[00:02:55] [LUA] DBG: OnGameSpawn player#1 squad 8
+[00:02:55] [LUA] DBG: CaptureFlag f1 player#1 squad 8
+[00:02:55] Invalid FSM state for 'inventory_out': 6 (eHumanFsmSplit.cpp:214) @ [quant]
+[00:02:55] Invalid FSM state for 'inventory_out': 6 (eHumanFsmSplit.cpp:214) @ [quant]
+[00:02:56] [EVT] danil140lar MATV с M240 AI: Defender Солдат ГРД 
+[00:02:56] [EVT] danil140lar MATV с M240 ИИ: средний Повстанец ГРД 
+[00:02:59] [LUA] squad15(grm) not available, player#1
+[00:02:59] [LUA] t-80bv not available, player#1
+[00:02:59] [LUA] bmp2 not available, player#1
+[00:02:59] [LUA] squad3(grm) 0 set wait timer, player#1
+[00:03:00] [EVT] danil140lar MATV с M240 ИИ: средний Повстанец ГРД 
+[00:03:01] unknown volume thickness (body) (eGameEntityArmor.cpp:82) @ [quant]
+[00:03:02] [EVT] danil140lar MATV с M240 ИИ: средний Лидер Боевиков ГРД 
+[00:03:06] [EVT] danil140lar M1014 AI: Defender Солдат ГРД 
+[00:03:06] Actor human[0xf:mp/grm/t2_04 human] not registerd in unit manager (mp_gameunitmanager.cpp:282) @ [quant]
+[00:03:07] [EVT] danil140lar MATV с M240 AI: Defender Солдат ГРД 
+[00:03:07] Actor human[0xa:mp/grm/t2_01 human] not registerd in unit manager (mp_gameunitmanager.cpp:282) @ [quant]
+[00:03:22] [EVT] danil140lar M4A1 AI: Defender Солдат ГРД 
+[00:03:25] [EVT] danil140lar M1014 ИИ: средний Боевик ГРД 
+[00:03:27] [EVT] danil140lar MATV с M240 ИИ: средний Боевик ГРД 
+[00:03:27] [EVT] danil140lar M1014 AI: Defender Командир отделения ГРД 
+[00:03:27] Actor human[0x8:mp/grm/t2_sq human] not registerd in unit manager (mp_gameunitmanager.cpp:282) @ [quant]
+[00:03:28] [EVT] danil140lar M4A1 ИИ: средний Боевик ГРД 
+[00:03:28] [LUA] DBG: SpawnUnit squad3(grm) player#1
+[00:03:28] [LUA] DBG: OnGameSpawn player#1 squad 9
+[00:03:28] [LUA] DBG: CaptureFlag f1 player#1 squad 9
+[00:03:28] [EVT] danil140lar MATV с M240 ИИ: средний Боевик ГРД 
+[00:03:33] [LUA] squad14(grm) not available, player#1
+[00:03:33] [LUA] btr-82a not available, player#1
+[00:03:33] [LUA] technical_zpu not available, player#1
+[00:03:33] [LUA] t-80u not available, player#1
+[00:03:33] [LUA] t-80u not available, player#1
+[00:03:33] [LUA] squad5(grm) not available, player#1
+[00:03:33] [LUA] bmp3 not available, player#1
+[00:03:33] [LUA] squad6(grm) not available, player#1
+[00:03:33] Actor human[0xb:mp/grm/t2_01 human] not registerd in unit manager (mp_gameunitmanager.cpp:282) @ [quant]
+[00:03:33] [LUA] bmp3 not available, player#1
+[00:03:33] [LUA] t-80bv not available, player#1
+[00:03:33] [LUA] t-80bv not available, player#1
+[00:03:34] [LUA] btr-80 not available, player#1
+[00:03:34] [LUA] t-80u not available, player#1
+[00:03:34] [LUA] t-80u not available, player#1
+[00:03:34] [LUA] squad3(grm) 0 set wait timer, player#1
+[00:03:40] [EVT] danil140lar M1014 ИИ: средний Боевик ГРД 
+[00:03:48] [EVT] danil140lar M1014 ИИ: средний Лидер Боевиков ГРД 
+[00:03:52] [EVT] danil140lar MATV с M240 ИИ: средний Повстанец ГРД 
+[00:03:55] [EVT] danil140lar MATV с M240 ИИ: средний Солдат ГРД 
+[00:03:57] [EVT] danil140lar MATV с M240 ИИ: средний Солдат ГРД 
+[00:03:58] [EVT] danil140lar M4A1 ИИ: средний Повстанец ГРД 
+[00:03:58] [LUA] DBG: SpawnUnit squad3(grm) player#1
+[00:03:58] [LUA] DBG: OnGameSpawn player#1 squad 10
+[00:03:58] [LUA] DBG: CaptureFlag f1 player#1 squad 10
+[00:04:00] [LUA] 2s3_akatsia_grm not available, player#1
+[00:04:00] [LUA] squad4(grm) not available, player#1
+[00:04:00] [LUA] squad8(grm) 0 set wait timer, player#1
+[00:04:04] [EVT] danil140lar M1014 ИИ: средний Солдат ГРД 
+[00:04:05] [LUA] DBG: CaptureFlags() Squad is not found - 0
+[00:04:05] [LUA] DBG: CaptureFlags() Squad is not found - 1
+[00:04:25] [EVT] danil140lar M16A4 ИИ: средний Солдат ГРД 
+[00:04:27] [EVT] danil140lar M16A4 ИИ: средний Солдат ГРД 
+[00:04:27] [LUA] DBG: SpawnUnit squad8(grm) player#1
+[00:04:27] [LUA] DBG: OnGameSpawn player#1 squad 11
+[00:04:27] [LUA] DBG: CaptureFlag f1 player#1 squad 11
+[00:04:31] [EVT] danil140lar MATV с M240 ИИ: средний Командир отделения ГРД 
+[00:04:33] [LUA] squad4(grm) not available, player#1
+[00:04:33] [LUA] squad13(grm) not available, player#1
+[00:04:33] [LUA] squad6(grm) not available, player#1
+[00:04:33] [LUA] squad5(grm) not available, player#1
+[00:04:33] [LUA] squad3(grm) 0 set wait timer, player#1
+[00:04:47] Actor human[0xc:mp/grm/t2_05 human] not registerd in unit manager (mp_gameunitmanager.cpp:282) @ [quant]
+[00:04:58] [EVT] danil140lar M4A1 ИИ: средний Солдат ГРД 
+[00:05:05] [EVT] danil140lar M16A4 ИИ: средний Солдат ГРД 
+[00:05:22] [EVT] Флаг захвачен
+[00:05:22] Game stopped 
+[00:05:22] GameThreadStop
+[00:05:31] Exit game mode
+[00:05:32] SyncFile: include game_progress.set 11.25 17:27:07
+[00:05:32] SyncFile: include keys.set 11.25 16:34:01
+[00:05:32] SyncFile: include settings.set 11.25 17:47:29
+[00:05:32] SyncFile: include campaign/завоевание 1.sav 11.25 17:47:20
+[00:05:32] SyncFile: include save/autosave1.sav 11.25 16:56:23
+[00:05:32] SyncFile: include save/autosave2.sav 11.25 17:17:44
+[00:05:32] SyncFile: include save/autosave3.sav 11.25 17:23:03
+[00:05:32] SyncFile: include save/autosave4.sav 11.25 16:41:53
+[00:05:32] SyncFile: include save/autosave5.sav 11.25 16:43:35
+[00:05:32] SyncFile: include save/save_11_25_19_34_14.sav 11.25 16:34:16
+[00:05:32] SyncFile: include save/save_11_25_20_36_32.sav 11.25 17:36:35
